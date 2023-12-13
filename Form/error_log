@@ -1,0 +1,16 @@
+[16-Apr-2023 15:15:30 UTC] PHP Notice:  Undefined variable: beikovak3@gmail.com in /home/pqfackgj/layerzero.news/Form/send.php on line 41
+[16-Apr-2023 15:15:30 UTC] PHP Notice:  Undefined variable: https://layerzero.news/ in /home/pqfackgj/layerzero.news/Form/send.php on line 43
+[16-Apr-2023 15:15:37 UTC] PHP Notice:  Undefined variable: beikovak3@gmail.com in /home/pqfackgj/layerzero.news/Form/send.php on line 41
+[16-Apr-2023 15:15:37 UTC] PHP Notice:  Undefined variable: https://layerzero.news/ in /home/pqfackgj/layerzero.news/Form/send.php on line 43
+[16-Apr-2023 15:16:22 UTC] PHP Notice:  Undefined variable: beikovak3@gmail.com in /home/pqfackgj/layerzero.news/Form/send.php on line 36
+[16-Apr-2023 15:16:22 UTC] PHP Notice:  Undefined variable: https://layerzero.news/ in /home/pqfackgj/layerzero.news/Form/send.php on line 38
+[16-Apr-2023 15:17:10 UTC] PHP Notice:  Undefined variable: beikovak3@gmail.com in /home/pqfackgj/layerzero.news/Form/send.php on line 36
+[16-Apr-2023 15:17:10 UTC] PHP Notice:  Undefined variable:  in /home/pqfackgj/layerzero.news/Form/send.php on line 38
+[16-Apr-2023 15:17:57 UTC] PHP Notice:  Undefined variable: beikovak3@gmail.com in /home/pqfackgj/layerzero.news/Form/send.php on line 36
+[16-Apr-2023 15:17:57 UTC] PHP Notice:  Undefined variable:  in /home/pqfackgj/layerzero.news/Form/send.php on line 38
+[16-Apr-2023 15:18:13 UTC] PHP Notice:  Undefined variable:  in /home/pqfackgj/layerzero.news/Form/send.php on line 36
+[16-Apr-2023 15:18:13 UTC] PHP Notice:  Undefined variable:  in /home/pqfackgj/layerzero.news/Form/send.php on line 38
+[16-Apr-2023 15:29:10 UTC] PHP Parse error:  syntax error, unexpected '"From: no-reply@server325.web-' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/pqfackgj/layerzero.news/Form/send.php on line 47
+[16-Apr-2023 15:29:14 UTC] PHP Parse error:  syntax error, unexpected '"From: no-reply@server325.web-' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/pqfackgj/layerzero.news/Form/send.php on line 47
+[16-Apr-2023 15:29:24 UTC] PHP Parse error:  syntax error, unexpected '"From: no-reply@server325.web-' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/pqfackgj/layerzero.news/Form/send.php on line 47
+[16-Apr-2023 15:30:08 UTC] PHP Parse error:  syntax error, unexpected '"From: pqfackgj@server325.web-' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/pqfackgj/layerzero.news/Form/send.php on line 47
